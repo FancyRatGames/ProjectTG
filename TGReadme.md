@@ -18,14 +18,13 @@ You can basically do any VR game that you want by importing more assets or just 
 There are some expansion packs that you can get for free or for a cheap price, I'll update this SDK to include links to all the expansion packs.
 
 5. Links:
-#Contact me at:
+·Contact me at:
 Twitter: @fancyratgames
 
-#Itch.io page:
+·Itch.io page:
+-https://www.itch.io/fancyratgames
 
-https://www.itch.io/fancyratgames
-
-#Expansion packs:
+·Expansion packs:
 Gorilla Locomotion Enhanced (coming soon)
 PCVR Version (coming soon)
 MacOs VR (experimental, coming soon)
