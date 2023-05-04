@@ -22,6 +22,7 @@ There are some expansion packs that you can get for free or for a cheap price, I
 Twitter: @fancyratgames
 
 #Itch.io page:
+
 https://www.itch.io/fancyratgames
 
 #Expansion packs:
