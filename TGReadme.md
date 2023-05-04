@@ -20,8 +20,10 @@ There are some expansion packs that you can get for free or for a cheap price, I
 5. Links:
 -Contact me at:
 Twitter: @fancyratgames
+
 -Itch.io page:
 https://www.itch.io/fancyratgames
+
 -Expansion packs:
 Gorilla Locomotion Enhanced (coming soon)
 PCVR Version (coming soon)
