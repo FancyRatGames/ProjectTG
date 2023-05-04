@@ -4,6 +4,8 @@ License, how-to and more to help you make a game/mod/project...
 1. License:
 This project uses an MIT license (https://mit-license.org/)
 If it follows the MIT license terms of service and you give partial credit (like in the credits or in the game/mod/project page) then you are able to make profit and publish your own project as the MIT license says...
+If a file is in the "Private" folder then you'll need to change it because that isn't licensed as MIT and instead it's from FancyRat, impersonation is illegal.
+If a file is a Unity Package then you don't need to move it, Unity packages are not needed tho but to install just double click them while Unity Editor is opened
 
 2. How-To:
 This SDK uses Unity Engine as a base and so you will need version 2021.3.12f1 or higher to use it (similar versions of unity like the late 2020 versions still work but it was not made for those versions)
